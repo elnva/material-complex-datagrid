@@ -1,0 +1,37 @@
+{
+  "name": "react-timeline-task",
+  "version": "5.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.11.11",
+    "@mui/material": "latest",
+    "@mui/styles": "5.11.11",
+    "@mui/x-data-grid": "5.17.25",
+    "@mui/x-data-grid-generator": "5.17.25",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "tss-react": "4.6.1"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
